@@ -194,7 +194,7 @@ Handler hRefresh = new Handler(){
 
 		switch(msg.what){
 		case REFRESH_SCREEN:
-			txtstat.setText("ดาวน์โหลดข้อมูลเรียบร้อยแล้ว");
+			txtstat.setText("Download ดาวน์โหลดข้อมูลเรียบร้อยแล้ว");
 			break;
 		default:
 			break;
