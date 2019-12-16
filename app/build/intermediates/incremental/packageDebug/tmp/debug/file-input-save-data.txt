@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Wed Dec 04 17:21:01 ICT 2019
+0.baseType=DIRECTORY
+0.base=/Users/MacPro/AndroidStudioProjects/CISMeter8/app/build/intermediates/dex/debug/mergeDexDebug/out
+0.path=classes.dex
+0.set=DEX
+count=1

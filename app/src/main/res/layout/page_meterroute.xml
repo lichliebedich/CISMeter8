@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/DodgerBlue"
+    android:orientation="vertical"
+    android:padding="16dip">
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_gravity="center_horizontal"
+        app:srcCompat="@drawable/ic_siamlogo" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:paddingTop="10dip">
+
+        <TextView
+            android:id="@+id/FTPHOST"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="left"
+            android:paddingRight="20dp"
+            android:text="ประปาสาขา : "
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/DarkRed" />
+
+        <TextView
+            android:id="@+id/tvwwcode"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.91"
+            android:gravity="left|center"
+            android:text="5532019"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/Black"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="10dip">
+
+        <TextView
+            android:id="@+id/text1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="left"
+            android:paddingRight="40dp"
+            android:text="ชื่อประปา :"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/DarkRed" />
+
+        <TextView
+            android:id="@+id/tvwwTname"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.70"
+            android:gravity="left|center"
+            android:text="สตึก"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/Black"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="10dip">
+
+        <TextView
+            android:id="@+id/tvempid"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="left"
+            android:paddingRight="60dp"
+            android:text="เส้นทาง:"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/DarkRed" />
+
+        <TextView
+            android:id="@+id/tvroute"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.70"
+            android:gravity="left|center"
+            android:text="010001"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/Black"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="10dip">
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="left"
+            android:paddingRight="40dp"
+            android:text="จำนวนราย:"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/DarkRed" />
+
+        <TextView
+            android:id="@+id/tvamount"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.39"
+            android:gravity="left|center"
+            android:text="100"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/Black"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="10dip">
+
+        <TextView
+            android:id="@+id/tvempname"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="left"
+            android:paddingRight="60dp"
+            android:text="อ่านแล้ว:"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/DarkRed" />
+
+        <TextView
+            android:id="@+id/tvread"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="left|center"
+            android:text="0"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/Black"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/text40"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="left"
+            android:paddingLeft="20dp"
+            android:text="ราย"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/DarkRed" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:paddingTop="13dip">
+
+        <Button
+            android:id="@+id/bn_moveF"
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="71dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="|&lt;"
+            android:textSize="30sp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/bn_moveP"
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="70dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="&lt;"
+            android:textSize="30sp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/bn_moveN"
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="69dp"
+            android:layout_height="wrap_content"
+            android:text=">"
+            android:textSize="30sp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/bn_moveL"
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="77dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="|>"
+            android:textSize="30sp"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+
+</LinearLayout>

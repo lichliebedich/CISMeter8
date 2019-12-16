@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="10dp"
+    android:background="@color/LightSkyBlue"
+    android:orientation="vertical"
+    android:padding="16dip">
+
+    <TextView
+        android:id="@+id/text_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="โหลดเส้นทางอ่านมาตร"
+        android:textAlignment="center"
+        android:textColor="@color/DarkRed"
+        android:textSize="22sp"
+        android:textStyle="bold" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tvstatus"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:gravity="center_horizontal"
+            android:text="การประปาสาขา"
+            android:textColor="@color/Black"
+            android:textSize="24dp"
+            android:textStyle="bold" />
+
+        <Spinner
+            android:id="@+id/spinner1"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:layout_gravity="center"
+            android:layout_margin="10dp"
+            android:layout_marginBottom="10dp"
+            android:background="@color/LightPink"
+            android:entries="@array/wwcode"
+            android:gravity="center"
+            android:scrollbars="vertical"
+            android:spinnerMode="dialog"
+            android:splitMotionEvents="true"
+            android:textAlignment="gravity"
+            android:verticalScrollbarPosition="right" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tvempid"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center_horizontal"
+            android:paddingRight="20dp"
+            android:text="รหัสพนักงาน"
+            android:textColor="@color/Black"
+            android:textSize="26dp"
+            android:textStyle="bold" />
+
+        <EditText
+            android:id="@+id/txtemp"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:background="@color/DodgerBlue"
+            android:ems="10"
+            android:gravity="center"
+            android:inputType="number"
+            android:maxLength="4"
+            android:selectAllOnFocus="true"
+            android:text="1000"
+            android:textSize="40sp"
+            android:textStyle="bold">
+
+            <requestFocus />
+        </EditText>
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btn_find"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginTop="10dp"
+        android:background="#13b586"
+        android:text="โหลดเส้นทาง"
+        android:textColor="@color/AliceBlue"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+
+    <TextView
+        android:id="@+id/txtstat"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="สถานะ : เตรียมพร้อม"
+        android:textColor="@color/DarkRed"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+
+
+</LinearLayout>

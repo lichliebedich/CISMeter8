@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">CISMeter62</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="create_database">Import Data</string>
+	<string name="version_app">0.0.1</string>
+	<string name="menu">SRPwaMobile - 10</string>
+	<string name="title_ftp">ดาวน์โหลดข้อมูล Internet</string>
+	<string name="title_import">นำเข้าข้อมูลอ่านมาตร</string>
+	<string name="title_upload">ส่งข้อมูลออนไลน์</string>
+	<string name="title_mtr">ตรวจสอบยอดสรุป</string>
+	
+	<string name="GPSAlertDialogTitle">GPS is setting</string>
+    <string name="GPSAlertDialogMessage">GPS is not enabled. Do you want to go to setting menu</string>
+    
+	<string name="settings">Settings</string>
+    <string name="cancel">Cancel</string>
+    
+    <string name="latitude">Latitude : </string>
+    <string name="longitude">Longitude : </string>
+    
+    <string name="country">Country : </string>
+    <string name="city">City : </string>
+    <string name="postalCode">Postal Code : </string>
+    <string name="addressLine">Address Line : </string>
+    <string name="cisversion">Version CISC</string>
+    <string name="tvlocation">LOCATION :</string>
+    <string name="tvlatlon">Latitude,Longitude :</string>
+    <string-array name="wwcode">
+        	<item>-- เลือกสาขา --</item>
+            <item>อุบลราชธานี</item>
+            <item>พิบูลมังสาหาร</item>
+            <item>เดชอุดม</item>
+            <item>เขมราฐ</item>
+            <item>อำนาจเจริญ</item>
+            <item>ยโสธร</item>
+            <item>เลิงนกทา</item>
+            <item>มหาชนะชัย</item>
+            <item>บุรีรัมย์</item>
+            <item>สตึก</item>
+            <item>ลำปลายมาศ</item>
+            <item>นางรอง</item>
+            <item>ละหานทราย</item>
+            <item>สุรินทร์</item>
+            <item>ศีขรภูมิ</item>
+            <item>รัตนบุรี</item>
+            <item>สังขะ</item>
+            <item>ศรีสะเกษ</item>
+            <item>กันทรลักษ์</item>
+            <item>มุกดาหาร</item>
+            <item>ขาณุวรลักษบุรี</item>
+            <item>กำแพงเพชร</item>
+            <item>ตาก</item>
+            <item>แม่สอด</item>
+            <item>นครสวรรค์</item>
+            <item>พิษณุโลก</item>
+    </string-array>
+
+</resources>

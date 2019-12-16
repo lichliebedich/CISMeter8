@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/MacPro/AndroidStudioProjects/SRCISMeterJuly/app/libs/commons-net-3.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cd0d5510908225f76c5fe5a3f1df4fa44866f81e">
+        <dex dex="/Users/MacPro/AndroidStudioProjects/SRCISMeterJuly/app/build/intermediates/pre-dexed/debug/commons-net-3.3_54e8fa8f97092c9d13bfc8cf605b1106ca6ea720.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MacPro/AndroidStudioProjects/SRCISMeterJuly/app/libs/commons-net-3.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cd0d5510908225f76c5fe5a3f1df4fa44866f81e">
+        <dex dex="/Users/MacPro/AndroidStudioProjects/SRCISMeterJuly/app/build/intermediates/transforms/dex/debug/folders/1000/2/commons-net-3.3_54e8fa8f97092c9d13bfc8cf605b1106ca6ea720/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MacPro/AndroidStudioProjects/SRCISMeterJuly/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/MacPro/AndroidStudioProjects/SRCISMeterJuly/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_bcce162df11bcba1890ff366f3b78279d19b82fb/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/MacPro/.android/build-cache/0a5e8a564a1dd39cb91ab5de79c1aea077cc732b/output/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/MacPro/AndroidStudioProjects/SRCISMeterJuly/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3_146d1182535fd3cb958570a77e1d5e689a64ce13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/MacPro/.android/build-cache/8a6f953844d2704a697ef09308e748c8fa89993b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/MacPro/AndroidStudioProjects/SRCISMeterJuly/app/build/intermediates/pre-dexed/debug/classes_40d706e2aee3fd6de6a8dc39f2d75a7453b8012a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MacPro/AndroidStudioProjects/SRCISMeterJuly/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a1ae99ce9e5eec25531199d08229709aa0bd58b2">
+        <dex dex="/Users/MacPro/AndroidStudioProjects/SRCISMeterJuly/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_7cbf706010040a1875b03c13c05271390f166972/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/MacPro/AndroidStudioProjects/SRCISMeterJuly/app/libs/ftp4j-1.7.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="abd6a2ba75b142926052c4538611efda49e0b0e2">
+        <dex dex="/Users/MacPro/AndroidStudioProjects/SRCISMeterJuly/app/build/intermediates/pre-dexed/debug/ftp4j-1.7.2_018cef5eea658a97c198ffcba386fe7541fab6c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/MacPro/.android/build-cache/0a5e8a564a1dd39cb91ab5de79c1aea077cc732b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/MacPro/AndroidStudioProjects/SRCISMeterJuly/app/build/intermediates/pre-dexed/debug/classes_86128d7290e71ca274cf9492fc6f068a3c9334e5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/MacPro/AndroidStudioProjects/SRCISMeterJuly/app/libs/ftp4j-1.7.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="abd6a2ba75b142926052c4538611efda49e0b0e2">
+        <dex dex="/Users/MacPro/AndroidStudioProjects/SRCISMeterJuly/app/build/intermediates/transforms/dex/debug/folders/1000/2/ftp4j-1.7.2_018cef5eea658a97c198ffcba386fe7541fab6c4/classes.dex" />
+    </item>
+
+</items>

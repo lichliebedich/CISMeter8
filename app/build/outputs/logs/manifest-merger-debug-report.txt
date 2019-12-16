@@ -1,0 +1,297 @@
+-- Merging decision tree log ---
+provider#android.support.v4.content.FileProvider
+INJECTED from /Users/MacPro/AndroidStudioProjects/CISMeter8/app/src/main/AndroidManifest.xml:50:9-58:20
+	android:grantUriPermissions
+		ADDED from /Users/MacPro/AndroidStudioProjects/CISMeter8/app/src/main/AndroidManifest.xml:54:13-47
+	android:authorities
+		INJECTED from /Users/MacPro/AndroidStudioProjects/CISMeter8/app/src/main/AndroidManifest.xml
+		ADDED from /Users/MacPro/AndroidStudioProjects/CISMeter8/app/src/main/AndroidManifest.xml:52:13-60
+	android:exported
+		ADDED from /Users/MacPro/AndroidStudioProjects/CISMeter8/app/src/main/AndroidManifest.xml:53:13-37
+	android:name
+		ADDED from /Users/MacPro/AndroidStudioProjects/CISMeter8/app/src/main/AndroidManifest.xml:51:13-67
+manifest
+ADDED from /Users/MacPro/AndroidStudioProjects/CISMeter8/app/src/main/AndroidManifest.xml:2:1-61:12
+INJECTED from /Users/MacPro/AndroidStudioProjects/CISMeter8/app/src/main/AndroidManifest.xml:2:1-61:12
+INJECTED from /Users/MacPro/AndroidStudioProjects/CISMeter8/app/src/main/AndroidManifest.xml:2:1-61:12
+INJECTED from /Users/MacPro/AndroidStudioProjects/CISMeter8/app/src/main/AndroidManifest.xml:2:1-61:12
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/MacPro/.gradle/caches/transforms-1/files-1.1/play-services-location-16.0.0.aar/5852267ed4c7502ee5b988de7b1b2c59/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:appcompat-v7:24.0.0] /Users/MacPro/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.0.0.aar/6ffbdf0312d5d96766afe3d7e2e86e3b/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/MacPro/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/e0d5fe620e00947c8a3977cf1a5776f1/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/MacPro/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/89ae05751854b83f9d3cd4261d8270f3/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/MacPro/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/7eae4e48fa65a1125946c99e1ac8e68b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/MacPro/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/2d4c08124d7493ab0a8bb498e7fa6c1d/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:animated-vector-drawable:24.0.0] /Users/MacPro/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.0.0.aar/67ab390093ab37972fd9dbfc22ff5825/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:24.0.0] /Users/MacPro/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.0.0.aar/9603c4c27acfe88e2925d95eb3cd5ef2/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/MacPro/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/cea6e0614d057324b0e63c6ba68d921f/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/MacPro/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/c877ee37e06aa41987b6558b88efe3bd/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/MacPro/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/1b74b94a866e9805b3df0204156fbbfc/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/MacPro/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/20974badfb4d2bb101cc4c1e67048dbb/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/MacPro/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/d5aa4adcd1cff0b625a2326a0a0bd7eb/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /Users/MacPro/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/2411a82775b669d073f91f82444ab48e/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/MacPro/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/256a2bdd55fb40eb44891874a0e79139/AndroidManifest.xml:17:1-30:12
+INJECTED from /Users/MacPro/AndroidStudioProjects/CISMeter8/app/src/main/AndroidManifest.xml:2:1-61:12
+INJECTED from /Users/MacPro/AndroidStudioProjects/CISMeter8/app/src/main/AndroidManifest.xml:2:1-61:12
+INJECTED from /Users/MacPro/AndroidStudioProjects/CISMeter8/app/src/main/AndroidManifest.xml:2:1-61:12
+	package
+		ADDED from /Users/MacPro/AndroidStudioProjects/CISMeter8/app/src/main/AndroidManifest.xml:4:5-41
+		INJECTED from /Users/MacPro/AndroidStudioProjects/CISMeter8/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/MacPro/AndroidStudioProjects/CISMeter8/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/MacPro/AndroidStudioProjects/CISMeter8/app/src/main/AndroidManifest.xml:6:5-30
+		INJECTED from /Users/MacPro/AndroidStudioProjects/CISMeter8/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/MacPro/AndroidStudioProjects/CISMeter8/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/MacPro/AndroidStudioProjects/CISMeter8/app/src/main/AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from /Users/MacPro/AndroidStudioProjects/CISMeter8/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/MacPro/AndroidStudioProjects/CISMeter8/app/src/main/AndroidManifest.xml:5:5-28
+		INJECTED from /Users/MacPro/AndroidStudioProjects/CISMeter8/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/MacPro/AndroidStudioProjects/CISMeter8/app/src/main/AndroidManifest.xml
+uses-feature#android.hardware.camera
+ADDED from /Users/MacPro/AndroidStudioProjects/CISMeter8/app/src/main/AndroidManifest.xml:8:3-57
+	android:name
+		ADDED from /Users/MacPro/AndroidStudioProjects/CISMeter8/app/src/main/AndroidManifest.xml:8:17-55
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/MacPro/AndroidStudioProjects/CISMeter8/app/src/main/AndroidManifest.xml:9:2-75
+	android:name
+		ADDED from /Users/MacPro/AndroidStudioProjects/CISMeter8/app/src/main/AndroidManifest.xml:9:19-73
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/MacPro/AndroidStudioProjects/CISMeter8/app/src/main/AndroidManifest.xml:10:2-77
+	android:name
+		ADDED from /Users/MacPro/AndroidStudioProjects/CISMeter8/app/src/main/AndroidManifest.xml:10:19-75
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/MacPro/AndroidStudioProjects/CISMeter8/app/src/main/AndroidManifest.xml:11:2-76
+	android:name
+		ADDED from /Users/MacPro/AndroidStudioProjects/CISMeter8/app/src/main/AndroidManifest.xml:11:19-73
+uses-feature#android.hardware.location.gps
+ADDED from /Users/MacPro/AndroidStudioProjects/CISMeter8/app/src/main/AndroidManifest.xml:12:5-66
+	android:name
+		ADDED from /Users/MacPro/AndroidStudioProjects/CISMeter8/app/src/main/AndroidManifest.xml:12:19-63
+uses-permission#android.permission.INTERNET
+ADDED from /Users/MacPro/AndroidStudioProjects/CISMeter8/app/src/main/AndroidManifest.xml:13:3-64
+	android:name
+		ADDED from /Users/MacPro/AndroidStudioProjects/CISMeter8/app/src/main/AndroidManifest.xml:13:20-62
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/MacPro/AndroidStudioProjects/CISMeter8/app/src/main/AndroidManifest.xml:14:3-78
+	android:name
+		ADDED from /Users/MacPro/AndroidStudioProjects/CISMeter8/app/src/main/AndroidManifest.xml:14:20-75
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/MacPro/AndroidStudioProjects/CISMeter8/app/src/main/AndroidManifest.xml:15:5-80
+	android:name
+		ADDED from /Users/MacPro/AndroidStudioProjects/CISMeter8/app/src/main/AndroidManifest.xml:15:22-78
+uses-permission#android.permission.READ_INTERNAL_STORAGE
+ADDED from /Users/MacPro/AndroidStudioProjects/CISMeter8/app/src/main/AndroidManifest.xml:16:5-80
+	android:name
+		ADDED from /Users/MacPro/AndroidStudioProjects/CISMeter8/app/src/main/AndroidManifest.xml:16:22-77
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /Users/MacPro/AndroidStudioProjects/CISMeter8/app/src/main/AndroidManifest.xml:17:2-70
+	android:name
+		ADDED from /Users/MacPro/AndroidStudioProjects/CISMeter8/app/src/main/AndroidManifest.xml:17:19-68
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/MacPro/AndroidStudioProjects/CISMeter8/app/src/main/AndroidManifest.xml:18:2-64
+	android:name
+		ADDED from /Users/MacPro/AndroidStudioProjects/CISMeter8/app/src/main/AndroidManifest.xml:18:19-62
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/MacPro/AndroidStudioProjects/CISMeter8/app/src/main/AndroidManifest.xml:19:2-62
+	android:name
+		ADDED from /Users/MacPro/AndroidStudioProjects/CISMeter8/app/src/main/AndroidManifest.xml:19:19-60
+uses-permission#android.permission.INSTALL_PACKAGES
+ADDED from /Users/MacPro/AndroidStudioProjects/CISMeter8/app/src/main/AndroidManifest.xml:20:5-21:47
+	tools:ignore
+		ADDED from /Users/MacPro/AndroidStudioProjects/CISMeter8/app/src/main/AndroidManifest.xml:21:9-44
+	android:name
+		ADDED from /Users/MacPro/AndroidStudioProjects/CISMeter8/app/src/main/AndroidManifest.xml:20:22-72
+application
+ADDED from /Users/MacPro/AndroidStudioProjects/CISMeter8/app/src/main/AndroidManifest.xml:23:5-59:19
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/MacPro/.gradle/caches/transforms-1/files-1.1/play-services-location-16.0.0.aar/5852267ed4c7502ee5b988de7b1b2c59/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/MacPro/.gradle/caches/transforms-1/files-1.1/play-services-location-16.0.0.aar/5852267ed4c7502ee5b988de7b1b2c59/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:appcompat-v7:24.0.0] /Users/MacPro/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.0.0.aar/6ffbdf0312d5d96766afe3d7e2e86e3b/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:24.0.0] /Users/MacPro/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.0.0.aar/6ffbdf0312d5d96766afe3d7e2e86e3b/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/MacPro/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/e0d5fe620e00947c8a3977cf1a5776f1/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/MacPro/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/e0d5fe620e00947c8a3977cf1a5776f1/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/MacPro/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/89ae05751854b83f9d3cd4261d8270f3/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/MacPro/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/89ae05751854b83f9d3cd4261d8270f3/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/MacPro/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/7eae4e48fa65a1125946c99e1ac8e68b/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/MacPro/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/7eae4e48fa65a1125946c99e1ac8e68b/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/MacPro/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/2d4c08124d7493ab0a8bb498e7fa6c1d/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/MacPro/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/2d4c08124d7493ab0a8bb498e7fa6c1d/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:24.0.0] /Users/MacPro/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.0.0.aar/67ab390093ab37972fd9dbfc22ff5825/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.0.0] /Users/MacPro/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.0.0.aar/67ab390093ab37972fd9dbfc22ff5825/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.0.0] /Users/MacPro/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.0.0.aar/9603c4c27acfe88e2925d95eb3cd5ef2/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:24.0.0] /Users/MacPro/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.0.0.aar/9603c4c27acfe88e2925d95eb3cd5ef2/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:26.1.0] /Users/MacPro/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/cea6e0614d057324b0e63c6ba68d921f/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/MacPro/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/cea6e0614d057324b0e63c6ba68d921f/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/MacPro/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/c877ee37e06aa41987b6558b88efe3bd/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/MacPro/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/c877ee37e06aa41987b6558b88efe3bd/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/MacPro/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/1b74b94a866e9805b3df0204156fbbfc/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/MacPro/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/1b74b94a866e9805b3df0204156fbbfc/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/MacPro/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/20974badfb4d2bb101cc4c1e67048dbb/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/MacPro/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/20974badfb4d2bb101cc4c1e67048dbb/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/MacPro/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/d5aa4adcd1cff0b625a2326a0a0bd7eb/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/MacPro/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/d5aa4adcd1cff0b625a2326a0a0bd7eb/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/MacPro/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/2411a82775b669d073f91f82444ab48e/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/MacPro/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/2411a82775b669d073f91f82444ab48e/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/MacPro/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/256a2bdd55fb40eb44891874a0e79139/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/MacPro/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/256a2bdd55fb40eb44891874a0e79139/AndroidManifest.xml:24:5-28:19
+	android:label
+		ADDED from /Users/MacPro/AndroidStudioProjects/CISMeter8/app/src/main/AndroidManifest.xml:26:9-41
+	android:icon
+		ADDED from /Users/MacPro/AndroidStudioProjects/CISMeter8/app/src/main/AndroidManifest.xml:25:9-40
+	android:allowBackup
+		ADDED from /Users/MacPro/AndroidStudioProjects/CISMeter8/app/src/main/AndroidManifest.xml:24:9-35
+	android:theme
+		ADDED from /Users/MacPro/AndroidStudioProjects/CISMeter8/app/src/main/AndroidManifest.xml:27:9-40
+	tools:replace
+		ADDED from /Users/MacPro/AndroidStudioProjects/CISMeter8/app/src/main/AndroidManifest.xml:28:10-38
+activity#com.example.srcismeterjuly.MainScreen
+ADDED from /Users/MacPro/AndroidStudioProjects/CISMeter8/app/src/main/AndroidManifest.xml:29:9-37:20
+	android:label
+		ADDED from /Users/MacPro/AndroidStudioProjects/CISMeter8/app/src/main/AndroidManifest.xml:31:13-45
+	android:name
+		ADDED from /Users/MacPro/AndroidStudioProjects/CISMeter8/app/src/main/AndroidManifest.xml:30:13-39
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/MacPro/AndroidStudioProjects/CISMeter8/app/src/main/AndroidManifest.xml:32:13-36:29
+action#android.intent.action.MAIN
+ADDED from /Users/MacPro/AndroidStudioProjects/CISMeter8/app/src/main/AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from /Users/MacPro/AndroidStudioProjects/CISMeter8/app/src/main/AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/MacPro/AndroidStudioProjects/CISMeter8/app/src/main/AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from /Users/MacPro/AndroidStudioProjects/CISMeter8/app/src/main/AndroidManifest.xml:35:27-74
+activity#com.example.srcismeterjuly.ReadMeter
+ADDED from /Users/MacPro/AndroidStudioProjects/CISMeter8/app/src/main/AndroidManifest.xml:38:9-45
+	android:name
+		ADDED from /Users/MacPro/AndroidStudioProjects/CISMeter8/app/src/main/AndroidManifest.xml:38:19-43
+activity#com.example.srcismeterjuly.ReadMeterPlus
+ADDED from /Users/MacPro/AndroidStudioProjects/CISMeter8/app/src/main/AndroidManifest.xml:39:9-49
+	android:name
+		ADDED from /Users/MacPro/AndroidStudioProjects/CISMeter8/app/src/main/AndroidManifest.xml:39:19-47
+activity#com.example.srcismeterjuly.MainMenu
+ADDED from /Users/MacPro/AndroidStudioProjects/CISMeter8/app/src/main/AndroidManifest.xml:40:9-44
+	android:name
+		ADDED from /Users/MacPro/AndroidStudioProjects/CISMeter8/app/src/main/AndroidManifest.xml:40:19-42
+activity#com.example.srcismeterjuly.ftpload
+ADDED from /Users/MacPro/AndroidStudioProjects/CISMeter8/app/src/main/AndroidManifest.xml:41:9-43
+	android:name
+		ADDED from /Users/MacPro/AndroidStudioProjects/CISMeter8/app/src/main/AndroidManifest.xml:41:19-41
+activity#com.example.srcismeterjuly.RouteMeter
+ADDED from /Users/MacPro/AndroidStudioProjects/CISMeter8/app/src/main/AndroidManifest.xml:42:9-43:59
+	android:windowSoftInputMode
+		ADDED from /Users/MacPro/AndroidStudioProjects/CISMeter8/app/src/main/AndroidManifest.xml:43:9-57
+	android:name
+		ADDED from /Users/MacPro/AndroidStudioProjects/CISMeter8/app/src/main/AndroidManifest.xml:42:19-44
+activity#com.example.srcismeterjuly.PageUploadOnline
+ADDED from /Users/MacPro/AndroidStudioProjects/CISMeter8/app/src/main/AndroidManifest.xml:44:9-52
+	android:name
+		ADDED from /Users/MacPro/AndroidStudioProjects/CISMeter8/app/src/main/AndroidManifest.xml:44:19-50
+activity#com.example.srcismeterjuly.PageImportData
+ADDED from /Users/MacPro/AndroidStudioProjects/CISMeter8/app/src/main/AndroidManifest.xml:45:9-50
+	android:name
+		ADDED from /Users/MacPro/AndroidStudioProjects/CISMeter8/app/src/main/AndroidManifest.xml:45:19-48
+activity#com.example.srcismeterjuly.PageShowRoute
+ADDED from /Users/MacPro/AndroidStudioProjects/CISMeter8/app/src/main/AndroidManifest.xml:46:9-49
+	android:name
+		ADDED from /Users/MacPro/AndroidStudioProjects/CISMeter8/app/src/main/AndroidManifest.xml:46:19-47
+activity#com.example.srcismeterjuly.PageBackupDB
+ADDED from /Users/MacPro/AndroidStudioProjects/CISMeter8/app/src/main/AndroidManifest.xml:47:9-48
+	android:name
+		ADDED from /Users/MacPro/AndroidStudioProjects/CISMeter8/app/src/main/AndroidManifest.xml:47:19-46
+activity#com.example.srcismeterjuly.PageFindMeter
+ADDED from /Users/MacPro/AndroidStudioProjects/CISMeter8/app/src/main/AndroidManifest.xml:48:9-49
+	android:name
+		ADDED from /Users/MacPro/AndroidStudioProjects/CISMeter8/app/src/main/AndroidManifest.xml:48:19-47
+activity#com.example.srcismeterjuly.MainActivity
+ADDED from /Users/MacPro/AndroidStudioProjects/CISMeter8/app/src/main/AndroidManifest.xml:49:9-48
+	android:name
+		ADDED from /Users/MacPro/AndroidStudioProjects/CISMeter8/app/src/main/AndroidManifest.xml:49:19-46
+uses-sdk
+INJECTED from /Users/MacPro/AndroidStudioProjects/CISMeter8/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/MacPro/AndroidStudioProjects/CISMeter8/app/src/main/AndroidManifest.xml
+INJECTED from /Users/MacPro/AndroidStudioProjects/CISMeter8/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/MacPro/.gradle/caches/transforms-1/files-1.1/play-services-location-16.0.0.aar/5852267ed4c7502ee5b988de7b1b2c59/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/MacPro/.gradle/caches/transforms-1/files-1.1/play-services-location-16.0.0.aar/5852267ed4c7502ee5b988de7b1b2c59/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:appcompat-v7:24.0.0] /Users/MacPro/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.0.0.aar/6ffbdf0312d5d96766afe3d7e2e86e3b/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:24.0.0] /Users/MacPro/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.0.0.aar/6ffbdf0312d5d96766afe3d7e2e86e3b/AndroidManifest.xml:21:5-23:78
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/MacPro/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/e0d5fe620e00947c8a3977cf1a5776f1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/MacPro/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/e0d5fe620e00947c8a3977cf1a5776f1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/MacPro/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/89ae05751854b83f9d3cd4261d8270f3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/MacPro/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/89ae05751854b83f9d3cd4261d8270f3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/MacPro/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/7eae4e48fa65a1125946c99e1ac8e68b/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/MacPro/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/7eae4e48fa65a1125946c99e1ac8e68b/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/MacPro/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/2d4c08124d7493ab0a8bb498e7fa6c1d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/MacPro/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/2d4c08124d7493ab0a8bb498e7fa6c1d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:24.0.0] /Users/MacPro/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.0.0.aar/67ab390093ab37972fd9dbfc22ff5825/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:24.0.0] /Users/MacPro/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.0.0.aar/67ab390093ab37972fd9dbfc22ff5825/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.0.0] /Users/MacPro/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.0.0.aar/9603c4c27acfe88e2925d95eb3cd5ef2/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:24.0.0] /Users/MacPro/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.0.0.aar/9603c4c27acfe88e2925d95eb3cd5ef2/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:26.1.0] /Users/MacPro/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/cea6e0614d057324b0e63c6ba68d921f/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/MacPro/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/cea6e0614d057324b0e63c6ba68d921f/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/MacPro/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/c877ee37e06aa41987b6558b88efe3bd/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/MacPro/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/c877ee37e06aa41987b6558b88efe3bd/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/MacPro/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/1b74b94a866e9805b3df0204156fbbfc/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/MacPro/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/1b74b94a866e9805b3df0204156fbbfc/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/MacPro/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/20974badfb4d2bb101cc4c1e67048dbb/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/MacPro/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/20974badfb4d2bb101cc4c1e67048dbb/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/MacPro/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/d5aa4adcd1cff0b625a2326a0a0bd7eb/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/MacPro/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/d5aa4adcd1cff0b625a2326a0a0bd7eb/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/MacPro/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/2411a82775b669d073f91f82444ab48e/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/MacPro/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/2411a82775b669d073f91f82444ab48e/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/MacPro/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/256a2bdd55fb40eb44891874a0e79139/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/MacPro/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/256a2bdd55fb40eb44891874a0e79139/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/MacPro/AndroidStudioProjects/CISMeter8/app/src/main/AndroidManifest.xml
+INJECTED from /Users/MacPro/AndroidStudioProjects/CISMeter8/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.0.0] /Users/MacPro/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.0.0.aar/6ffbdf0312d5d96766afe3d7e2e86e3b/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/MacPro/AndroidStudioProjects/CISMeter8/app/src/main/AndroidManifest.xml
+		ADDED from /Users/MacPro/AndroidStudioProjects/CISMeter8/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/MacPro/AndroidStudioProjects/CISMeter8/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/MacPro/AndroidStudioProjects/CISMeter8/app/src/main/AndroidManifest.xml
+		ADDED from /Users/MacPro/AndroidStudioProjects/CISMeter8/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/MacPro/AndroidStudioProjects/CISMeter8/app/src/main/AndroidManifest.xml
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /Users/MacPro/AndroidStudioProjects/CISMeter8/app/src/main/AndroidManifest.xml:55:13-57:54
+	android:resource
+		ADDED from /Users/MacPro/AndroidStudioProjects/CISMeter8/app/src/main/AndroidManifest.xml:57:17-51
+	android:name
+		ADDED from /Users/MacPro/AndroidStudioProjects/CISMeter8/app/src/main/AndroidManifest.xml:56:17-67
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/MacPro/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/e0d5fe620e00947c8a3977cf1a5776f1/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/MacPro/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/e0d5fe620e00947c8a3977cf1a5776f1/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/MacPro/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/e0d5fe620e00947c8a3977cf1a5776f1/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/MacPro/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/e0d5fe620e00947c8a3977cf1a5776f1/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/MacPro/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/2d4c08124d7493ab0a8bb498e7fa6c1d/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/MacPro/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/2d4c08124d7493ab0a8bb498e7fa6c1d/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/MacPro/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/2d4c08124d7493ab0a8bb498e7fa6c1d/AndroidManifest.xml:24:13-58
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] /Users/MacPro/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/cea6e0614d057324b0e63c6ba68d921f/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/MacPro/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/c877ee37e06aa41987b6558b88efe3bd/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/MacPro/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/c877ee37e06aa41987b6558b88efe3bd/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/MacPro/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/1b74b94a866e9805b3df0204156fbbfc/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/MacPro/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/1b74b94a866e9805b3df0204156fbbfc/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/MacPro/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/20974badfb4d2bb101cc4c1e67048dbb/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/MacPro/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/20974badfb4d2bb101cc4c1e67048dbb/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/MacPro/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/d5aa4adcd1cff0b625a2326a0a0bd7eb/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/MacPro/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/d5aa4adcd1cff0b625a2326a0a0bd7eb/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/MacPro/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/2411a82775b669d073f91f82444ab48e/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/MacPro/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/2411a82775b669d073f91f82444ab48e/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] /Users/MacPro/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/cea6e0614d057324b0e63c6ba68d921f/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.1.0] /Users/MacPro/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/cea6e0614d057324b0e63c6ba68d921f/AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/MacPro/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/256a2bdd55fb40eb44891874a0e79139/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/MacPro/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/256a2bdd55fb40eb44891874a0e79139/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/MacPro/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/256a2bdd55fb40eb44891874a0e79139/AndroidManifest.xml:26:13-58
